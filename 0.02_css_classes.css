@@ -1,0 +1,13 @@
+body{
+	background-color: #FAEBD7;
+	}
+	.css-classes {
+		background-color: red;	
+	}
+.css-classes p{
+	font-size: 16px;
+	color: green;
+}
+.css-classes ul{
+	color: navy;
+}
